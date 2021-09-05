@@ -9,7 +9,7 @@
   * [License](#license)
   
   # Information
-  ~ there is Information, Installation, Usage, Contributing, Test, Questions and License
+  ~ there is Information, Installation, Usage, Usefulness, Test, Questions and License
   ![Get Started](./public/assets/image-1.png)
 
 
