@@ -1,4 +1,5 @@
 const router = require('express').Router()
+const { networkInterfaces } = require('os');
 const path = require('path');
 
 router.get("/", (req, res) => {
@@ -10,13 +11,16 @@ router.get("/notes", (req, res) => {
 });
 
 
-// router.get("/api/notes/:id", (req, res) => {
-//     res.json(notes[req.params.id])
-// });
+
 router.delete("/api/notes/:id", (req, res) => {
-    const params = notes.splice(req.params.id, 1);
-    updateDb();
-    console.log("Deleted" + req.params.id);
+  res.sendFile(path.join(__dirname, "/db/db.json"));
+
+for (let i = 0; i < newNotes.length; i++)
+    console.log("Delete" + req.params.id);
+    if(newNotes[i].id == req.params.id){
+        newNotes.splice(i, 1);
+        break
+    }
 })
 
 module.exports = router;
