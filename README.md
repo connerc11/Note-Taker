@@ -15,8 +15,13 @@
 
   # Installation
   ~ The project will be created using inquirer, as well as routes through node. It will be created through JavaScript.
+
+  Use https://github.com/connerc11/Note-Taker in order to clone the project!
+  
   # Usage
   ~ The project will be useful for generating notes and being able to save notes through local storage.
+
+  You can access the project through https://note-taker1001.herokuapp.com/
   # Usefulness
   ~ This project will be useful for storing information or keeping track of to do items for the day. It is important to incorporate important notes that can be used for later.
   # Test 
