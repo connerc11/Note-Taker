@@ -1,5 +1,11 @@
 # Note Taker 
-   
+
+ ## Profile 
+  - Conner Cochrane 
+  - Front End Developer
+  - Check out Questions below for more information!
+
+  * [Profile](#profile)
   * [Information](#information)
   * [Installation](#installation)
   * [Usage](#usage)
@@ -9,12 +15,13 @@
   * [License](#license)
   
   # Information
-  ~ there is Information, Installation, Usage, Usefulness, Test, Questions and License
+  ~ The project was developed on the front and back end in order to allow for the creation of notes. In the app you can create notes that can be saved into your local storage to retreive them when needed! 
   ![Get Started](./public/assets/image-1.png)
 
 
   # Installation
   ~ The project will be created using inquirer, as well as routes through node. It will be created through JavaScript.
+  ~ Clone the project and run npm i in order to receive all the packaged. npm start should then load the application locally for you to edit and play around with!
 
   Use https://github.com/connerc11/Note-Taker in order to clone the project!
   
@@ -28,8 +35,9 @@
   ~ It will be tested through node and will be developed in the back end mixed with the front end through Routes. This will help generate a page to complete information. 
   # Questions
    This will be standard for setting up a design team online.
-  * Feel free to reach out to my email: hello1234@gmail.com
+  * Feel free to reach out to my email: cccochrane1@knights.ucf.edu
   * To see more of my work check out my github! The username is: connerc11
   * Also click the link to have easy access to the Github! (https://github.com/connerc11)
   # License
+  -This project was made without a license!
    
